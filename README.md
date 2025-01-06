@@ -1,4 +1,4 @@
-## Data Scientist / Data Analyst
+## 👨‍💻 Data Scientist / Data Analyst
 
 I am passionate about creating value through problem solving in the field of Data Science.
 I want to contribute to turning the possibilities of data into reality.
@@ -17,7 +17,7 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **B.S. Degree** | 2020.03 ~ 2023.08 | Software Convergence & Industrial and Management systems engineering  | **Kyung Hee Univ.** |
-| **M.S. Degree** | 2023.03 ~ 2025.02 | Department of Big Data Analytics | **Kyung Hee Univ.** |
+| **M.S. Degree** | 2023.03 ~ 2025.02 | Big Data Analytics | **Kyung Hee Univ.** |
 
 ### 🏆 Prizes
 

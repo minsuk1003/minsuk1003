@@ -7,10 +7,10 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 
 ### 🚩 Interests
 
-- Data Mining <sup>Predictive Analytics - Classification & Regression, Exploratory Data Analysis</sup>
-- Business Intelligence <sup>Data Visualization, Dashboard Development, Data Storytelling</sup>
-- Natural Language Processing <sup>LLM, sLLM, Prompt Engineering</sup>
-- Decision Making <sup>Multi-Criteria Decision Making</sup>
+- **Data Mining** <sup>Predictive Analytics - Classification & Regression, Exploratory Data Analysis</sup>
+- **Business Intelligence** <sup>Data Visualization, Dashboard Development, Data Storytelling</sup>
+- **Natural Language Processing** <sup>LLM, sLLM, Prompt Engineering</sup>
+- **Decision Making** <sup>Multi-Criteria Decision Making</sup>
 
 ### 👦 Career
 

@@ -26,6 +26,6 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 - [2023.12] 한국지식경영학회 추계학술대회 아이디어 공모전: **최우수상** 
 - [2022.11] 경희대학교 SW 페스티벌: **최우수상** 
 
-####  [`[Blog]`](https://minsuk1003.github.io/) | [`[Portfolio]`](https://glorious-firewall-b13.notion.site/Minsuk-Kang-59e1844c73fe4c20a8aaaf86c23f1a39?pvs=4) | [`[CV]`](https://www.canva.com/design/DAGaxqkzakQ/aZ6ld0LO09vdDzJmFYEWlw/view?utm_content=DAGaxqkzakQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7ff233960)
+#### 🗃 [`[Blog]`](https://minsuk1003.github.io/) | [`[Portfolio]`](https://glorious-firewall-b13.notion.site/Minsuk-Kang-59e1844c73fe4c20a8aaaf86c23f1a39?pvs=4) | [`[CV]`](https://www.canva.com/design/DAGaxqkzakQ/aZ6ld0LO09vdDzJmFYEWlw/view?utm_content=DAGaxqkzakQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7ff233960)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuk1003)](https://github.com/minsuk1003/github-readme-stats)

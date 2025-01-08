@@ -7,9 +7,9 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 
 ### 🚩 Interests
 
-- **Data Mining** <sup>Predictive Analytics - Classification & Regression, Exploratory Data Analysis</sup>
+- **Data Mining** <sup>Predictive Analytics - Classification & Regression, Descriptive Analytics - EDA</sup>
 - **Business Intelligence** <sup>Data Visualization, Dashboard Development, Data Storytelling</sup>
-- **Natural Language Processing** <sup>LLM, sLLM, Prompt Engineering</sup>
+- **Natural Language Processing** <sup>LLM, sLLM, Prompt Engineering, RAG</sup>
 - **Decision Making** <sup>Multi-Criteria Decision Making</sup>
 
 ### 🏢 Career
@@ -38,7 +38,7 @@ I'm proficient in ...
 
 Now, I'm trying to ...
 
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=DuckDB&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=DuckDB&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
 
 #### 📑 [`[Blog]`](https://minsuk1003.github.io/) | [`[Portfolio]`](https://glorious-firewall-b13.notion.site/Minsuk-Kang-59e1844c73fe4c20a8aaaf86c23f1a39?pvs=4) | [`[CV]`](https://www.canva.com/design/DAGaxqkzakQ/aZ6ld0LO09vdDzJmFYEWlw/view?utm_content=DAGaxqkzakQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf7ff233960)

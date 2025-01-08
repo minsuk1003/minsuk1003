@@ -12,12 +12,12 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 - **Natural Language Processing** <sup>LLM, sLLM, Prompt Engineering</sup>
 - **Decision Making** <sup>Multi-Criteria Decision Making</sup>
 
-### 👦 Career
+### 🏢 Career
 
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **B.S. Degree** | 2020.03 ~ 2023.08 | Software Convergence & Industrial and Management systems engineering  | **Kyung Hee Univ.** |
-| **M.S. Degree** | 2023.03 ~ 2025.02 | Big Data Analytics | **Kyung Hee Univ.** |
+### 🏫 Education
+
+- **B.S. Degree** | 2020.03 ~ 2023.08 | Software Convergence & Industrial and Management systems engineering  | **Kyung Hee Univ.** |
+- **M.S. Degree** | 2023.03 ~ 2025.02 | Big Data Analytics | **Kyung Hee Univ.** |
 
 ### 🏆 Prize
 
@@ -34,7 +34,7 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 
 I'm proficient in ... 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=Hugging Face&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat-square&logo=Hugging Face&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI API-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon Web Services&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 Now, I'm trying to ...
 

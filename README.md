@@ -20,9 +20,10 @@ I am looking to fulfill a role as a Data Analyst, but my career goal is to grow 
 - **M.S. Degree** | 2023.03 ~ 2025.02 | Big Data Analytics | **Kyung Hee Univ.** |
 
 ### 🏆 Prize
-
-- 2024.08 | 한국경영학회 **우수논문상**
-  - [전국 종관기상관측 데이터를 활용한 5분 단위 전력수요 예측 모델 제안](https://glorious-firewall-b13.notion.site/5-25cd0e7022a847c59cdc960b88df86c8?pvs=4)
+- 2024.11 | 한국서비스경영학회 추계학술대회 **우수발표논문상**
+  - [텍스트 및 이미지 활용 멀티모달 기반 중고거래 사기탐지 예측모델 개발 및 검증](https://glorious-firewall-b13.notion.site/e5861cb764ac41f48f4dcbb3617319b5?pvs=4)
+- 2024.08 | 한국경영학회 추계학술대회 **우수논문상**
+  - [DLinear 모델을 적용한 비용 효율적 전력 수요 예측: 기상 데이터 활용](https://glorious-firewall-b13.notion.site/5-25cd0e7022a847c59cdc960b88df86c8?pvs=4)
 - 2023.12 | 빅콘테스트 빅데이터플랫폼분야 지정주제리그 **최우수상**
   - [우리나라 연안의 수온 및 해수면 상승을 중심으로 발생하는 다양한 분야에서의 영향 분석](https://glorious-firewall-b13.notion.site/863154ddc10d4bb690ca7988e5ce2a66?pvs=4)
 - 2023.12 | 한국지식경영학회 추계학술대회 아이디어 공모전 **최우수상**

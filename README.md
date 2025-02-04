@@ -3,7 +3,7 @@
 I am passionate about creating value through problem solving in the field of Data Science.
 I want to contribute to turning the possibilities of data into reality.
 
-I am looking to fulfill a role as a Data Analyst, but my career goal is to grow as a Data Scientist. 
+I am looking to fulfill a role as a Data Scientist / Data Analyst. 
 
 ### 🚩 Interests
 

@@ -1,4 +1,4 @@
-## 👨‍💻 Data Scientist / Data Analyst
+## 👨‍💻 Data Scientist / Data Analyst / BI Engineer
 
 I am passionate about creating value through problem solving in the field of Data Science.
 I want to contribute to turning the possibilities of data into reality.

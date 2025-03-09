@@ -3,8 +3,6 @@
 I am passionate about creating value through problem solving in the field of Data Science.
 I want to contribute to turning the possibilities of data into reality.
 
-I am looking to fulfill a role as a Data Scientist / Data Analyst. 
-
 ### 🚩 Interests
 
 - **Data Mining** <sup>Predictive Analytics - Classification & Regression, Descriptive Analytics - EDA</sup>
@@ -14,12 +12,15 @@ I am looking to fulfill a role as a Data Scientist / Data Analyst.
 
 ### 🏢 Career
 
+- **Sailing Stone** | 2025.03 ~ 2023.05 | BI Engineer Intern |
+
 ### 🏫 Education
 
-- **B.S. Degree** | 2020.03 ~ 2023.08 | Software Convergence & Industrial and Management systems engineering  | **Kyung Hee Univ.** |
 - **M.S. Degree** | 2023.03 ~ 2025.02 | Big Data Analytics | **Kyung Hee Univ.** |
+- **B.S. Degree** | 2020.03 ~ 2023.08 | Software Convergence & Industrial and Management systems engineering  | **Kyung Hee Univ.** |
 
 ### 🏆 Prize
+
 - 2024.11 | 한국서비스경영학회 추계학술대회 **우수발표논문상**
   - [텍스트 및 이미지 활용 멀티모달 기반 중고거래 사기탐지 예측모델 개발 및 검증](https://glorious-firewall-b13.notion.site/e5861cb764ac41f48f4dcbb3617319b5?pvs=4)
 - 2024.08 | 한국경영학회 추계학술대회 **우수논문상**

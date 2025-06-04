@@ -12,7 +12,7 @@ I want to contribute to turning the possibilities of data into reality.
 
 ### 🏢 Career
 
-- **Sailing Stone** | 2025.03 ~ 2023.05 | BI Engineer Intern |
+- **Sailing Stone** | 2025.03 ~ | AI / BI Engineer |
 
 ### 🏫 Education
 
